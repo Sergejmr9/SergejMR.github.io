@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    <head>
+        <beta charset="utf-8">
+            <title>Рыбак</title>
+    </head>
+    <body>
+        <header>
+        <img src="logo.svg">
+        <h1>Рыбак</h1>
+        </header>
+        <div>
+          <nav>
+            <ul>
+               <li><a href="index.html">Рыбы</a></li>
+               <li><a href="qwert1.html">Снасти</a></li>
+            </ul>
+          </nav>
+        <main>
+
+        </main>
+        </div>
+    </body>
+</html>

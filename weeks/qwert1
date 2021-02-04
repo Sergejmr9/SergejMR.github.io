@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+        <beta charset="utf-8">
+            <title>Снасти</title>
+    </head>
+    <body>
+        <header>
+        <img src="logo.svg">
+        <h1>Снасти</h1>
+        </header>
+        <div>
+          <nav>
+            <ul>
+               <li><a href="Ribi.html">Рыбы</a></li>
+               <li><a href="qwert1.html">Снасти</a></li>
+               <li><a href="primanki.html">Приманки</a></li>
+               <li><a href="fakcti.html">Интересные факты о рыбах</a></li>
+            </ul>
+          </nav>
+        <main>
+        <h2>Снасти</h2>
+        </main>
+        </div>
+    </body>
+</html>
